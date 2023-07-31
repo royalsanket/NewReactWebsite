@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/NewReactWebsite/static/css/main.d2e83d76.css",
+    "main.js": "/NewReactWebsite/static/js/main.d3ce5ac5.js",
+    "index.html": "/NewReactWebsite/index.html",
+    "main.d2e83d76.css.map": "/NewReactWebsite/static/css/main.d2e83d76.css.map",
+    "main.d3ce5ac5.js.map": "/NewReactWebsite/static/js/main.d3ce5ac5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d2e83d76.css",
+    "static/js/main.d3ce5ac5.js"
+  ]
+}
